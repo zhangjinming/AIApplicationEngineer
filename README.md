@@ -1,5 +1,5 @@
 # AIApplicationEngineer
-AIApplicationEngineer 人工智能应用工程师
+AIApplicationEngineer 人工智能应用工程师指南
 
 ## 引言
 在这个快速发展的人工智能时代，在ChatGPT Deepseek等大模型快速退出，并能应用解决现实世界中的问题的时候,我们每个人都应该使用AI工具为自己赋能，如冷兵器时代的弓箭，热兵器时代的火枪，御敌千米之外。本教程旨在为初学者和中级开发者提供一个全面的学习路径，从基础概念到高级实现技巧。
